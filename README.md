@@ -16,6 +16,8 @@ How to run:
 5) In the client set up servers for both addresses
 6) Join either server
 
+### If it lags, use the offline HTML file instead of the browser client.
+
 ## No LAN? No problem.
 If for some reason you are unable to connect between computers on your LAN network, or want to play outside of a LAN network.
 
