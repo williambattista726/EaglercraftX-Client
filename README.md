@@ -8,6 +8,14 @@ Unfortunatly there is no localhost server at the time of writing, though updates
 ## Running (the following instructions apply only to my 1.5.2 clients and will be updated soon)
 Current server replit: https://replit.com/@catfoolyougithu/eaglercraft-server
 
+How to run:
+1) Fork the repl
+2) Go to the Cubernite folder and delete `world`, `world_nether` and `world_the_end` (this is mandatory)
+3) Run the repl
+4) Copy the adderesses from https://replit.com/@yourusername/eaglercraft-server?v=1 AND from https://eaglercraft-server.yourusername.repl.co/
+5) In the client set up servers for both addresses
+6) Join either server
+
 ## No LAN? No problem.
 If for some reason you are unable to connect between computers on your LAN network, or want to play outside of a LAN network.
 
