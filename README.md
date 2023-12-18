@@ -6,10 +6,7 @@ There will soon be major changes as I prepeare to upgrade and migrate all of my 
 Unfortunatly there is no localhost server at the time of writing, though updates are expected to come thick and fast. 
 
 ## Running (the following instructions apply only to my 1.5.2 clients and will be updated soon)
-1) Download this: https://github.com/catfoolyou/Eagler-Online/tree/main/java
-2) Run `run.bat` or `run_unix.sh` in both bungee and bukkit folders
-3) Open the browser client
-4) Connect to `ws://127.0.0.1:25565` to play on localhost
+Current server replit: https://replit.com/@catfoolyougithu/eaglercraft-server
 
 ## No LAN? No problem.
 If for some reason you are unable to connect between computers on your LAN network, or want to play outside of a LAN network.
