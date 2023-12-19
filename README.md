@@ -5,7 +5,7 @@ There will soon be major changes as I prepeare to upgrade and migrate all of my 
 
 Unfortunatly there is no localhost server at the time of writing, though updates are expected to come thick and fast. 
 
-## Running (the following instructions apply only to my 1.5.2 clients and will be updated soon)
+## Running
 Current server replit: https://replit.com/@catfoolyougithu/eaglercraft-server
 
 How to run:
@@ -18,8 +18,8 @@ How to run:
 
 ### If it lags, use the offline HTML file instead of the browser client.
 
-## No LAN? No problem.
-If for some reason you are unable to connect between computers on your LAN network, or want to play outside of a LAN network.
+## No Replit? No problem.
+If for some reason you are unable to connect to the Replit server, or it is blocked.
 
-Use this: [https://github.com/catfoolyou/Eagler-Server](https://github.com/catfoolyou/Eagler-Server)
+Use this: [https://github.com/catfoolyou/Eagler-Server](https://github.com/catfoolyou/EaglerX-Server)
 
