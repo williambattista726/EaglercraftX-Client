@@ -21,5 +21,5 @@ How to run:
 ## No Replit? No problem.
 If for some reason you are unable to connect to the Replit server, or it is blocked.
 
-Use this: [https://github.com/catfoolyou/Eagler-Server](https://github.com/catfoolyou/EaglerX-Server)
+Use this: [https://github.com/catfoolyou/EaglerX-Server](https://github.com/catfoolyou/EaglerX-Server)
 
