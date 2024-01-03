@@ -14,7 +14,7 @@ How to run:
 1) Fork the repl
 2) Go to the Cubernite folder and delete `world`, `world_nether` and `world_the_end` (this is mandatory)
 3) Run the repl
-4) Copy the adderesses from https://replit.com/@yourusername/eaglercraft-server?v=1 AND from https://eaglercraft-server.yourusername.repl.co/
+4) Copy the adderesses from https://replit.com/@yourusername/eaglercraft-server?v=1 AND from https://eaglercraft-server.yourusername.repl.co/ (replace `yourusername` with your actual replit username)
 5) In the client set up servers for both addresses
 6) Join either server
 
