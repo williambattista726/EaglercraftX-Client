@@ -5,7 +5,7 @@ Browser client for Eagler 1.8.8-u19. Server has to run locally on user's PC (or 
 
 There will soon be major changes as I prepeare to upgrade and migrate all of my clients and servers to 1.8. There was never any singleplayer in lax1dude's original 1.8 clients, so single player support will probably never be added in.
 
-Unfortunatly there is no localhost server at the time of writing, though updates are expected to come thick and fast. 
+Use AutoEagler for localhost servers.
 
 ## Running
 Current server replit: https://replit.com/@catfoolyougithu/eaglercraft-server
