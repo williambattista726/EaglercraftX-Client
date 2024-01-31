@@ -1,11 +1,11 @@
 # EaglercraftX-Client
 [![pages-build-deployment](https://github.com/catfoolyou/EaglercraftX-Client/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/catfoolyou/EaglercraftX-Client/actions/workflows/pages/pages-build-deployment)
 
-Browser client for Eagler 1.8.8-u19. Server has to run locally on user's PC (or anywhere else). All credit for my eaglercraft projects goes to lax1dude for writing the eagler javascript runtime and the built in shader pack.
+Browser client for Eagler 1.8.8-u19. There is now a singleplayer in this client, and LAN works the same way as it did in 1.5.2.
 
-There will soon be major changes as I prepeare to upgrade and migrate all of my clients and servers to 1.8. There was never any singleplayer in lax1dude's original 1.8 clients, so single player support will probably never be added in.
+Server has to run locally on user's PC (or anywhere else). All credit for my eaglercraft projects goes to lax1dude for writing the eagler javascript runtime and the built in shader pack.
 
-Use AutoEagler for localhost servers.
+There will soon be major changes as I prepeare to upgrade and migrate all of my clients and servers to 1.8.
 
 ## Running
 Current server replit: https://replit.com/@catfoolyougithu/eaglercraft-server
