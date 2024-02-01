@@ -1,7 +1,7 @@
 # EaglercraftX-Client
 [![pages-build-deployment](https://github.com/catfoolyou/EaglercraftX-Client/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/catfoolyou/EaglercraftX-Client/actions/workflows/pages/pages-build-deployment)
 
-Browser client for Eagler 1.8.8-u19. There is now a singleplayer in this client, and LAN works the same way as it did in 1.5.2.
+Browser client for Eagler 1.8.8-u21. There is now a singleplayer in this client, and LAN works the same way as it did in 1.5.2.
 
 Server has to run locally on user's PC (or anywhere else). All credit for my eaglercraft projects goes to lax1dude for writing the eagler javascript runtime and the built in shader pack.
 
