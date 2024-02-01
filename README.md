@@ -8,6 +8,8 @@ Server has to run locally on user's PC (or anywhere else). All credit for my eag
 There will soon be major changes as I prepeare to upgrade and migrate all of my clients and servers to 1.8.
 
 ## Running
+#### Look at [https://github.com/catfoolyou/EaglerX-Server](https://github.com/catfoolyou/EaglerX-Server) for instructions on LAN servers.
+
 Current server replit: https://replit.com/@catfoolyougithu/eaglercraft-server
 
 How to run:
